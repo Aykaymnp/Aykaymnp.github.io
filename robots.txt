@@ -1,0 +1,8 @@
+# robots.txt for Mithila Dori
+# This file tells search engines how to crawl the website
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://mithiladori.com/sitemap.xml
